@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-08T09:14:13.915Z",
-  "status": "degraded",
-  "up": 24,
+  "updatedAt": "2026-11-08T16:01:42.766Z",
+  "status": "operational",
+  "up": 25,
   "total": 25,
-  "avgMs": 854,
+  "avgMs": 781,
   "uptime24h": 100,
   "uptime7d": 100,
   "uptime90d": 100,
